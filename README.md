@@ -27,6 +27,9 @@ JavaScript: For handling form submission, making API requests, updating the DOM,
 Color of the Day API: To fetch the color data for a specific date.
 
 DEMO 
+
+
+
 ![Screenshot 2024-06-13 162739](https://github.com/arkh99/JS-Color-of-the-day/assets/124736009/f60a4c4b-0b0a-44fc-b8a0-bad4e6cdf3ad)
 
 ![Screenshot 2024-06-13 162748](https://github.com/arkh99/JS-Color-of-the-day/assets/124736009/21376f2e-69c4-4f35-bb9e-64e7be91f5bd)
